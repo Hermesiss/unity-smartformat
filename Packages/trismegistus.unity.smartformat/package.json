@@ -1,0 +1,21 @@
+{
+  "name": "trismegistus.unity.smartformat",
+  "displayName": "Trismegistus SmartFormat",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Unity version of SmartFormat library",
+  "keywords": [
+    "unity",
+    "tool",
+    "formatting"
+  ],
+  "author": {
+    "name": "Hermesis",
+    "email": "hermesiss@gmail.com",
+    "url": "https://github.com/Hermesiss"
+  },
+  "homepage": "https://github.com/Hermesiss/unity-smartformat",
+  "bugs": {
+    "url": "https://github.com/Hermesiss/unity-smartformat/issues"
+  }
+}
